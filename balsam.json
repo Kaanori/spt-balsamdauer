@@ -1,0 +1,5 @@
+{
+  "_hinweis": "Wirkungsdauer des Goldstern-Balsams. minuten = wie lange die Effekte halten. Nach dem Aendern reicht ein Serverneustart, kein Neubau.",
+  "minuten": 15,
+  "effekte": ["Pain", "RadExposure"]
+}
